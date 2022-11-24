@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T10:27:34.041Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="b05aJSt14tKuY-cFCf9e" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-24T10:29:30.486Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="MTQA9O3oaVDHFHGwUYZV" version="20.6.0" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="777" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -121,13 +121,13 @@
             <mxPoint x="708.75" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPQzMLmyDvj-dfu6Mmme-51" value="Pradžia (Data)" style="ellipse;whiteSpace=wrap;html=1;sketch=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="aPQzMLmyDvj-dfu6Mmme-51" value="Pradžia (Laikas)" style="ellipse;whiteSpace=wrap;html=1;sketch=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="670" y="530" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JLjMeHdoQYDmSA8X0EKQ-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;startSize=26;" edge="1" parent="1" source="aPQzMLmyDvj-dfu6Mmme-53" target="aPQzMLmyDvj-dfu6Mmme-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aPQzMLmyDvj-dfu6Mmme-53" value="Pabaiga&amp;nbsp;(Data)" style="ellipse;whiteSpace=wrap;html=1;sketch=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="aPQzMLmyDvj-dfu6Mmme-53" value="Pabaiga&amp;nbsp;(Laikas)" style="ellipse;whiteSpace=wrap;html=1;sketch=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="760" y="500" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JLjMeHdoQYDmSA8X0EKQ-2" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;startSize=26;" edge="1" parent="1" source="aPQzMLmyDvj-dfu6Mmme-55" target="aPQzMLmyDvj-dfu6Mmme-5">
@@ -297,10 +297,10 @@
         <mxCell id="N5-YpkT5xUds_UiDgJlk-4" value="&lt;u&gt;ID&lt;/u&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;sketch=0;fontFamily=Helvetica;fontSize=12;fillColor=default;" vertex="1" parent="N5-YpkT5xUds_UiDgJlk-3">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="N5-YpkT5xUds_UiDgJlk-5" value="Nuo (Data, laikas)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;sketch=0;fontFamily=Helvetica;fontSize=12;fillColor=default;" vertex="1" parent="N5-YpkT5xUds_UiDgJlk-3">
+        <mxCell id="N5-YpkT5xUds_UiDgJlk-5" value="Pradžia (Laikas)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;sketch=0;fontFamily=Helvetica;fontSize=12;fillColor=default;" vertex="1" parent="N5-YpkT5xUds_UiDgJlk-3">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="N5-YpkT5xUds_UiDgJlk-6" value="Iki&amp;nbsp;(Data, laikas)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;sketch=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="N5-YpkT5xUds_UiDgJlk-3">
+        <mxCell id="N5-YpkT5xUds_UiDgJlk-6" value="Pabaiga (Laikas)" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;sketch=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="N5-YpkT5xUds_UiDgJlk-3">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="N5-YpkT5xUds_UiDgJlk-7" value="Pradinė šalis" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;sketch=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="N5-YpkT5xUds_UiDgJlk-3">
