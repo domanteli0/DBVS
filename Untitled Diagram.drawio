@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T09:37:09.531Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="i-dwMBpzvcT21w9-6oWq" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T09:41:48.236Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="5SiUPahQnZWSyDXD-lHM" version="20.6.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="914" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="777" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,6 +32,9 @@
         </mxCell>
         <mxCell id="aPQzMLmyDvj-dfu6Mmme-15" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration: none; float: none; display: inline !important;&quot;&gt;Transporto&lt;/span&gt;&lt;br style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none;&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration: none; float: none; display: inline !important;&quot;&gt;priemonė&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="740" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aPQzMLmyDvj-dfu6Mmme-94" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontFamily=Helvetica;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="aPQzMLmyDvj-dfu6Mmme-16" target="aPQzMLmyDvj-dfu6Mmme-90">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aPQzMLmyDvj-dfu6Mmme-16" value="Paketas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="920" width="100" height="40" as="geometry" />
@@ -77,14 +80,11 @@
             <mxPoint x="680" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="aPQzMLmyDvj-dfu6Mmme-95" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontFamily=Helvetica;fontSize=12;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aPQzMLmyDvj-dfu6Mmme-32" target="aPQzMLmyDvj-dfu6Mmme-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aPQzMLmyDvj-dfu6Mmme-32" value="Vežami" style="rhombus;whiteSpace=wrap;html=1;sketch=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="450" y="830" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aPQzMLmyDvj-dfu6Mmme-33" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="aPQzMLmyDvj-dfu6Mmme-16" target="aPQzMLmyDvj-dfu6Mmme-32">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="870" as="sourcePoint" />
-            <mxPoint x="420" y="770" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="aPQzMLmyDvj-dfu6Mmme-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontFamily=Helvetica;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="aPQzMLmyDvj-dfu6Mmme-38" target="aPQzMLmyDvj-dfu6Mmme-16">
           <mxGeometry relative="1" as="geometry" />
@@ -220,8 +220,14 @@
         <mxCell id="aPQzMLmyDvj-dfu6Mmme-84" value="&lt;u&gt;VIN&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="260" y="660" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aPQzMLmyDvj-dfu6Mmme-86" value="Re" style="ellipse;whiteSpace=wrap;html=1;sketch=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="aPQzMLmyDvj-dfu6Mmme-87" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontFamily=Helvetica;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="aPQzMLmyDvj-dfu6Mmme-86" target="aPQzMLmyDvj-dfu6Mmme-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aPQzMLmyDvj-dfu6Mmme-86" value="Teisių kategorija" style="ellipse;whiteSpace=wrap;html=1;sketch=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="170" y="670" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aPQzMLmyDvj-dfu6Mmme-90" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=0;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="590" y="900" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
