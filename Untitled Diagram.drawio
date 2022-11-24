@@ -1,1 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T21:33:10.559Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="XO8dFH_J8n-emQZsrBv0" version="20.6.0" type="github"><diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">7Vtdc5s4FP01zOw+NAPCOMljTO12pvY2k6S7jzsKyKApIEbIX/31K4EExrIT6NaxGnvG46DLRR/3HB1JN9hy/XT9icI8npEQJRaww7XlfrQA8Nwh/xaGjTQAuzJEFIeVyWkMj/gHkkbltsAhKlqOjJCE4bxtDEiWoYC1bJBSsmq7zUnSbjWHEdIMjwFMdOs/OGRxZb3x7Mb+GeEoVi07tryTQuUsDUUMQ7JqmdCaTUjGZBfvEU1hhjLG78wg/Y6o5Y1jxsRI7yww4Z+58L6KCIkSBHNcXAUk5eag4C6TOUxxIsK8VdFIVsSbc8eW61NCWHWVrn2UCKgUDFWfJgfu1nGgot4OD/gflpvpd5tln1fu32w2i+6vnz/IWpYwWcj4ytiwjQo4Cnn8ZZE3hdnmASWQYZKNmzsjlIV3Al3uNH74gSh5IjOY8cGPCgYpa+6RTLpPMO+e+9FRLrJs87I+NNnPgixogF4YDxhISkIaIfaCo5wFYnBbLcjIfUIkRYxuuMOq4VjNpHibX8pIy6As2yyFkklRXWHdxj3BJbHkvHQHsh45La8VJVUV1dDlU9sw71Q02KlouFtRFRqtIn6xNfDGVLKoD6PAO6OU25FRzrVhlBrYbSY4Nz9LqWG7ImB7b0opnVFfaYhoofGKK3ouLhl8LhlUkkAuYa5gAV+UGMQZ19+KJQFJEpgXuHSvLDFOwinckAVTFanSaI7XKHyoVjDhy/k35ZUVkmJiLVCsFrdhgqOMXweccqLFEUUF78sUFkx6HCTlElGG1i+ySGHj7YCspvsWy4C3j2WufZhQLQT7wuW+LgAKKD50hmHywDcKMItKzNqQiLiGlORPavYJQy6Ihuh4iaqlugw+n+o+SYhANqsEoXQrB+eN+IcP17evPMvjHfB52WnK/CPcKfNJVjAKcQkH4kCtkABrxEgu20nQXHWDymCK62fCGF/5D8H6Iq1fx1pi63aE9mjIDjRk77/0wZbwsc6TUrVjHIYoq6ak2CfCBu89UO6Nfx3zXTB2J2JHPNzOeGwB4L5l/D0t/kQI4b/8IR9Yd3al2n99fRLf36ZTq97qmgSP0sXKd1TkMMBZNK2eHO7g5x0Dv7V1cD6Bt8RzeM5KuX9X9muUcnhqpbzWkJ18cfqA+0ZzsSMAw84AnEoab7SAB4uCj7lSR7BHGo3D4lVd/OVgmaKDtxcdPI4O3p5aB1XW8CehNUsFbzuH/1Qq6Oj5vGqHGEKGuF3+OQsZ7I6WKTLo6CfnxxjnaSlal1yHlusANx3l7Xi5Dkc/Ep/R0tXjcO10P52Zku1w9OP2e0p31NQ1eDnTD8iFFMRLzqMviMascvrZ+Iwks8d2s79knjzt4ejH8N8671Fz1WCN1A/PdVL4rNIePbAyRQrB/zsdX6TQ4MwH0I/iBk6+jvGviWquDqrw7tsrnmH2owdixqihnv7wZQ7/kv6wtl7t6P2qh300yC7pj47T8fdLf4D3nf4A5qc/gJ7+eO2fmueU++iBoDFL3CX3cSy9PHnuA+i5DwMnY9f4m5/4AHrio1bHDKZipx/EkP7h2X+ezabfpBQILzY/bqleBW9+kOSO/wM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-24T06:51:28.013Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="wWFm7wJ0GoCZVgTbfn9c" version="20.6.0" type="github">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+    <mxGraphModel dx="648" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aPQzMLmyDvj-dfu6Mmme-4" style="shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aPQzMLmyDvj-dfu6Mmme-2" target="aPQzMLmyDvj-dfu6Mmme-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPQzMLmyDvj-dfu6Mmme-2" value="Vairuotojas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aPQzMLmyDvj-dfu6Mmme-3" value="Teisės" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="380" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aPQzMLmyDvj-dfu6Mmme-5" value="Kelionė&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="590" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aPQzMLmyDvj-dfu6Mmme-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aPQzMLmyDvj-dfu6Mmme-2" target="aPQzMLmyDvj-dfu6Mmme-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="660" as="sourcePoint" />
+            <mxPoint x="560" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPQzMLmyDvj-dfu6Mmme-9" value="N" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;strokeColor=none;sketch=0;noLabel=0;portConstraint=none;snapToPoint=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="560" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aPQzMLmyDvj-dfu6Mmme-10" value="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;strokeColor=none;sketch=0;noLabel=0;portConstraint=none;snapToPoint=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="490" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aPQzMLmyDvj-dfu6Mmme-11" value="Transporto&lt;br&gt;priemonė" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;sketch=0;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="370" y="770" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
