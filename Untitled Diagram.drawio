@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T11:21:27.462Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="PAtolqIdd_OdXB9Ic3aF" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-24T12:43:14.062Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="nW22Zj7OJTwnwNJeCge8" version="20.6.0" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="777" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="914" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -414,7 +414,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="N5-YpkT5xUds_UiDgJlk-35" value="&lt;span style=&quot;&quot;&gt;Dalyvauja [Vair.-Kelion.]&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;sketch=0;fontFamily=Helvetica;fontSize=12;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="N5-YpkT5xUds_UiDgJlk-35" value="&lt;span style=&quot;&quot;&gt;Dalyvauja [Vair.-Važ.]&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;sketch=0;fontFamily=Helvetica;fontSize=12;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="630" y="160" width="140" height="78" as="geometry">
             <mxRectangle x="120" y="160" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -425,7 +425,7 @@
         <mxCell id="N5-YpkT5xUds_UiDgJlk-37" value="&lt;u&gt;Vairuotojas&lt;/u&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;sketch=0;fontFamily=Helvetica;fontSize=12;fillColor=default;" vertex="1" parent="N5-YpkT5xUds_UiDgJlk-35">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="LrOL4JLExqmX-mnSAuth-1" value="&lt;span style=&quot;&quot;&gt;Vežami [Paket.-Kelion.]&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;sketch=0;fontFamily=Helvetica;fontSize=12;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="LrOL4JLExqmX-mnSAuth-1" value="&lt;span style=&quot;&quot;&gt;Vežami [Paket.-Važ.]&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;sketch=0;fontFamily=Helvetica;fontSize=12;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="270" y="329" width="140" height="78" as="geometry">
             <mxRectangle x="120" y="160" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
